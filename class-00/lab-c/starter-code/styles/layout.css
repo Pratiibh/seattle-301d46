@@ -1,0 +1,45 @@
+nav, article, aside, footer section {
+margin: 0 auto;
+width: 900px;
+}
+
+nav {
+margin-top: 25px;
+}
+
+
+nav ul {
+float: right;
+}
+
+nav li {
+float: left;
+padding-right: 2px;
+}
+
+hr {
+clear: both;
+border: 0;
+height: 13px;
+background-image: url('../img/hr.png');
+}
+
+aside {
+padding-top: 30px;
+padding-bottom: 60px
+}
+
+aside img {
+float: left;
+}
+
+aside button {
+float: right;
+font-family: 'Abel', sans-serif;
+text-transform: uppercase;
+padding: 15px 40px;
+background: #b8705a;
+color: #fff;
+font-size: 1.2em;
+border: none;
+}
